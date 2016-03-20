@@ -1,0 +1,1456 @@
+m   (g   IlW  lffi																											
+lfil  O  3 JUN  2015   lliJ																											
+National Environment Agency   B Y: _ _ _ _ &2																											
+Radiation Protection  and Nuclear  Science Department																											
+Dose Report for Jan 2015-Mar 2015																											
+_ _ 5 May 2015																											
+SINGAPORE GENERAL HOSPITAL PTE LTD (4536)																											
+DEPT OF DIAGNOSTIC RADIOLOGY																											
+1 HOSPITAL DRIVE																											
+SINGAPORE GENERAL HOSPITAL SINGAPORE  169608																											
+Attn: MS TOH HONG GUAN																											
+lfa'-L  vl    h'J																											
+TOH HONG GUAN																											
+Manager                      .																											
+Dept of Diagnostic Rad1oogy Singapore General Hospital																											
+"r o :r1.,1,v\   '2,0"																											
+Wearer Name		Wearer ID No.		Dose Type		Current (mSv)		Accumulated Year (mSv)			Accumulated 5-Year (mSv)						Accumulated Life (mSv)			Remarks Code							
+																											
+ABDUL		S8614956G		Body		0.23		0.23			0.23						4.28			B       V							
+RAHMAN BIN				Skin		0.24		0.24			0.24						4.46										
+ARIP				Ring																							
+ABDUL SYAFIQ		S8937232A		Body		0.20		0.20			0.20						4.44			B							
+BIN ABDUL				Sldn		0.20		0.20			0.20						4.48										
+RAHMAN				Ring																							
+ABDUL		S0695739J		Body		0.20		0.20			0.20						37.08			B         v'							
+WAHAB BIN HJ				Skin		0.20		0.20			0.20						58.00										
+AHMAD				Ring																							
+AJAY		G5399608L		Body		0.26		0.26			0.26						2.32			B          v'							
+BANGARAGIRI				Skin		0.27		0.27			0.27						2.36										
+				Ring																							
+ALEXIS		06389556W		Body													6.14			G							
+BONOLA				Skin													6.92										
+FORTEZA				Ring																							
+ALIJAH BTE		S1541284D		Body		0.17		0.17			0.17						32.60			B							
+ABU BAKAR				Skin		0.20		0.20			0.20						46.84										
+				Ring																							
+ALVIN		G6305919L		Body		0.17		0.17			0.17						4.37			B        v'							
+SACDALAN IBE				Skin		0.17		0.17			0.17						4.46										
+				Ring																							
+AMARJIT		S6902569B		Body		0.37		0.37			0.37						20.59			B       V'							
+SINGH GILL				Skin		0.37		0.37			0.37						23.67										
+				Ring																							
+AMBET		06042874W		Body		0.21		0.21			0.21						6.72			B							
+TANBUA				Skin		0.21		0.21			0.21						7.03										
+AMADOR				Ring																							
+ANALISSA		06008935W		Body		0.24		0.24			0.24						1.88			B        v'							
+PENETRANTE				Skin		0.24		0.24			0.24						1.89										
+PENAFLOR				Ring																							
+ANDIK IRWAN		S8631552A		Body													6.29			G							
+AMIRULLAH				Skin													6.76										
+BIN MOHD				Ring																							
+JELANI																											
+Wearer Name       Wearer ID        Dose Type    Current             Accumulated     Accumulated    Accumulated     Remarks																											
+No.                                          (mSv)                Year  (mSv)       5-Year (mSv)   Life (mSv)         Code																											
+ANGEL REY         G6067278X       Body                                                                                                   4.82                    G																											
+CENIZA                                           Skin                                                                                              4.96																											
+BANZON                                          Ring																											
+ANGELA D/0       S8500644D        Body                                                                                                   10.09                 G																											
+ANTHONY P M                              Skin                                                                                               10.78																											
+Ring																											
+ANGELICA           G5213798K       Body              0.26                    0.26                    0.26                    4.52                    B         v'																											
+NARIO  SANTOS                             Skin                0.27                    0.27                    0.27                   4.57																											
+Ring																											
+ANKUR PATEL    S7661646I         Body                                                                                                   1.98                   G																											
+Skin                                                                                              2.00																											
+Ring																											
+ANWAH BTE        S0008964H       Body              0.21                    0.21                    0.21                    5.74                    B         v'																											
+HORI                                                Skin                0.22                    0.22                    0.22                    6.13																											
+Ring																											
+APOORVA             S7870789E        Body                                                                                                   3.77                    G																											
+GOGNA                                            Skin                                                                                              3.87																											
+Ring																											
+APRIL UMINGA   G6065535P        Body              0.18                    0.18                    0.18                   4.38                    B        V																											
+ARGOTE                                          Skin                0.18                    0.18                    0.18                   4.40																											
+Ring																											
+ARUFAH BINTE  S1528710A       Body                                                                                                   6.61                    G																											
+SAPUAN                                          Skin                                                                                              6.89																											
+Ring																											
+AW LIAN PING    S1689179G       Body              0.20                    0.20                    0.20                    14.20                 B      V																											
+Skin                0.20                    0.20                    0.20                    16.94																											
+Ring																											
+AYE MYAT          S8282780C        Body              0.13                    0.13                    0.13                    6.48                    B																											
+MYAT HTUN                                  Skin                0.13                    0.13                    0.13                    6.69																											
+Ring																											
+AZIZAH BTE        S8142444F        Body              0.20                    0.20                    0.20                    11.88                 B       v'																											
+MOHAMED                                     Skin                0.20                    0.20                    0.20                    12.53																											
+AFIF                                                 Ring																											
+Wearer Name		Wearer ID No.		Dose Type		Current (mSv)		Accumulated Year (mSv)			Accumulated 5-Year (mSv)						Accumulated Life (mSv)			Remarks Code							
+BARRIOS		06302673K		Body		0.29		0.29			0.29						5.65			B			v				
+POLICARPIO				Skin		0.32		0.32			0.32						7.83										
+AGUILAR				Ring																							
+"BELEN, LOLITA  FF412215"				Body		0.21		0.21			0.21						15.12			B			v'				
+SAMSON·				Skin		0.21		0.21			0.21						15.73										
+				Ring																							
+BEMALA D/0		S6876372Z		Body		0.20		0.20			0.20						0.93			B       V							
+NATHU				Skin		0.20		0.20			0.20						0.95										
+				Ring																							
+CAI SIHUI		S9000325I		Body		0.21		0.21			0.21						5.70			"B         .,/"							
+				Skin		0.21		0.21			0.21						5.88										
+				Ring																							
+CATHERINE S.		S7164161I		Body		0.28		0.28			0.28						12.36			B    v							
+TEOXON				Skin		0.28		0.28			0.28						12.80										
+				Ring																							
+CHAI PIK		05180849K		Body		0.15		0.15			0.15						3.06			B     7							
+HSIEN				Skin		0.15		0.15			0.15						3.07										
+				Ring																							
+CHAI TIAN		G6280522L		Body		0.20		0.20			0.20						4.86			B         v'							
+SUNG				Skin		0.21		0.21			0.21						5.07										
+				Ring																							
+CHAI YAN WEI		S9111559Z		Body		0.26		0.26			0.26						5.57			B          v'							
+				Skin		0.26		0.26			0.26						5.67										
+				Ring																							
+CHAN JU MIN		05962985P		Body		0.24		0.24			0.24						2.14			B          \/							
+SHAUN				Skin		0.25		0.25			0.25						2.22										
+XAVIER				Ring																							
+CHAN LAI		Sl7904160		Body		0.21		0.21			0.21						12.91			B							
+PENG				Skin		0.22		0.22			0.22						13.41										
+				Ring																							
+CHAN LING		S1801950G		Body		0.23		0.23			0.23						13.03			B            ·J'							
+LING				Skin		0.23		0.23			0.23						13.88										
+				Ring																							
+Wearer Name		Wearer ID No.		Dose Type		Current (mSv)		Accumulated Year (mSv)		Accumulated 5-Year (mSv)						"Accumulated
+Life (mSv)"			Remarks Code								
+CHANG PEI-		G5313480M		Body		0.17		0.17		0.17						2.08			B     v								
+YUAN TRUDY				Skin		0.17		0.17		0.17						2.08											
+				Ring																							
+CHEA YEN WEI		S7334697E		Body		0.26		0.26		0.26						8.01			"B        ·,./"								
+				Skin		0.26		0.26		0.26						8.35											
+				Ring																							
+CHEAH FOONG		S2644533G		Body		0.18		0.18		0.18						12.10			B    v								
+KOON				Skin		0.19		0.19		0.19						12.82											
+				Ring																							
+CHEAN YANG		S8620915B		Body												7.17			G								
+RONG ESTHER				Skin												7.62											
+				Ring																							
+CHEE CHIAP		S1653142A		Body		0.20		0.20		0.20						18.92			B            \/								
+FUI				Skin		0.25		0.25		0.25						20.71											
+				Ring																							
+CHEN MENG-		G5356776U		Body		0.26		0.26		0.26						2.15			B           \/								
+HAN				Skin		0.29		0.29		0.29						2.20											
+				Ring																							
+CHEN ROBERT		G5405918W		Body		0.30		0.30		0.30						1.69			B           ·J								
+				Skin		0.30		0.30		0.30						1.69											
+				Ring																							
+CHEN		S8921894B		Body		0.12		0.12		0.12						5.74			B      v								
+ZHICHENG				Skin		0.13		0.13		0.13						5.82											
+BERTWIN				Ring																							
+CHENG		S8480818J		Body		0.20		0.20		0.20						1.48			B        \/								
+CUIRONG				Skin		0.22		0.22		0.22						1.53											
+				Ring																							
+CHENG KIM		S6926974E		Body		0.14		0.14		0.14						18.22			B      v								
+CHAI				Skin		0.15		0.15		0.15						21.36											
+				Ring																							
+CHENG TIM-EE		S7420091E		Body		0.20		0.20		0.20						9.30			B          J								
+LIONEL				Skin		0.22		0.22		0.22						9.78											
+				Ring																							
+Wearer Name		Wearer ID No.		Dose Type		Current (mSv)		Accumulated Year (mSv)			Accumulated 5-Year (mSv)						Accumulated Life (mSv)			Remarks Code							
+CHEONG  CHEE		S7613920B		Body		0.19		0.19			0.19						5.33			B          V							
+HONG JAMES				Skin		0.19		0.19			0.19						5.42										
+				Ring																							
+CHEONG SENG		S2707268B		Body		0.20		0.20			0.20						12.76										
+GIAP EDDY				Skin		0.21		0.21			0.21						13.44										
+				Ring																							
+CHIA		S8725227B		Body													9.51			G							
+"QIAOWAN
+JOANNE"				Skin Ring													9.97										
+JANICE																											
+CHIDAMBARA		G5168981Q		Body													2.24			G							
+M VISWANATH				Skin													2.35										
+ANAND				Ring																							
+CHIN TZU-		05376662K		Body													1.83			G							
+CHIAO				Skin													1.83										
+				Ring																							
+CHING MING-		03012158P		Body		0.16		0.16			0.16						0.68			B							
+YU				Skin		0.18		0.18			0.18						0.71										
+				Ring																							
+CHIU YEN-		05365192K		Body		0.17		0.17			0.17						1.85			B          \/							
+NINO				Skin		0.17		0.17			0.17						1.89										
+				Ring																							
+CHONG LEE		S7642939A		Body													5.50			G							
+PING				Skin													5.89										
+				Ring																							
+CHONG SOON		06280515W		Body		0.26		0.26			0.26						5.19			B            V							
+HING				Skin		0.26		0.26			0.26						5.43										
+				Ring																							
+CHOW HWEI		S7805442E		Body		0.16		0.16			0.16						16.61			B            ·/							
+CHUIN				Skin		0.18		0.18			0.18						17.42										
+				Ring																							
+CHRISTINE		G6302809L		Body		0.22		0.22			0.22						5.11			B           \/							
+CALMA				Skin		0.22		0.22			0.22						5.31										
+TANDINGAN				Ring																							
+B         v'																											
+Wearer Name		Wearer ID No.		Dose Type		Current (mSv)		Accumulated Year (mSv)		Accumulated 5-Year (mSv)						Accumulated Life (mSv)			Remarks Code								
+CHRISTINE		G8347714N		Body		0.21		0.21		0.21						5.45			B          v1								
+MARIE				Skin		0.24		0.24		0.24						5.68											
+VERIDIANO				Ring																							
+CHU WEI		G5407367X		Body		0.34		0.34		0.34						2.04			B         ./								
+CHENG				Skin		0.34		0.34		0.34						2.08											
+				Ring																							
+CHUANG WEI		G5041555X		Body		0.14		0.14		0.14						2.73			B     v								
+LING				Skin		0.14		0.14		0.14						2.87											
+				Ring																							
+CINDY WIRA		S8975728B		Body		0.22		0.22		0.22						6.21			B								
+KUSUMA				Skin		0.23		0.23		0.23						6.38											
+				Ring																							
+CLYDE		G6305510M		Body		0.18		0.18		0.18						5.32			B           v'								
+VINCENT				Skin		0.19		0.19		0.19						5.54											
+BAGNES DE				Ring																							
+VILLA																											
+CRISPULO B.		S6863461Z		Body		0.14		0.14		0.14						11.74			B    v								
+TUMBO JR.				Skin		0.14		0.14		0.14						12.28											
+				Ring																							
+CUEVAS EMMA		HH700182		Body		0.18		0.18		0.18						13.27			B          ..j								
+CRISTIE				Skin		0.19		0.19		0.19						13.87											
+				Ring																							
+DAMODHARAN		G3000963R		Body		0.36		0.36		0.36						2.06			B			v					
+KARTHIKEYAN				Skin		0.40		0.40		0.40						2.17											
+				Ring																							
+DAVID EFREN		G6388744M		Body												5.73			G								
+JR. PONTAO				Skin												6.21											
+				Ring																							
+DAYANG		S6810219G		Body		0.18		0.18		0.18						3.88			B			./					
+PARNI BTE				Skin		0.19		0.19		0.19						3.92											
+ABDULLAH  @				Ring																							
+PUIS																											
+DENG FUZHEN		S8382500F		Body		0.15		0.15		0.15						10.70			B			J					
+				Skin		0.15		0.15		0.15						11.18											
+				Ring																							
+Wearer Name		Wearer ID No.		Dose Type		Current (mSv)		Accumulated Year (mSv)			Accumulated 5-Year (mSv)						Accumulated Life (mSv)			Remarks Code							
+DIZON		05885731P		Body		0.30		0.30			0.30			10.83						B							
+ARELLANO				Skin		0.34		0.34			0.34			12.24													
+PASION				Ring																							
+DOROTHY		S8973761C		Body		0.17		0.17			0.17			5.53						B      v							
+HKAWN SENG				Skin		0.17		0.17			0.17			5.62													
+				Ring																							
+DR AFTAB		PI00001865		Body										0.60						G							
+SYED (SGH)				Skin										0.60													
+				Ring																							
+DR		PI00001967		Body		0.15		0.15			0.15			0.15						B            \/							
+CHEKENYERE				Skin		0.16		0.16			0.16			0.16													
+VIMBAI (SGH)				Ring																							
+DR CHEONG		PI00001430		Body		0.22		0.22			0.22			1.77						B           ./							
+SOOK CHUEI				Skin		0.24		0.24			0.24			1.81													
+(SGH)				Ring																							
+DR CHEW BAO		PI00001968		Body																G							
+LI (SGH)				Skin																							
+				Ring																							
+DR CYNTHIA		PI00001425		Body										1.25						G							
+ASSIMTA				Skin										1.25													
+PETER (SGH)				Ring																							
+DR FAIMEE		PI00001966		Body		0.16		0.16			0.16			0.16						B          \/							
+ERWAN BIN				Skin		0.16		0.16			0.16			0.16													
+MUHAMAT				Ring																							
+NOR (SGH)																											
+DR FONG KAH		PI00001224		Body		0.26		0.26			0.26			0.65						B							
+KENO JEFFREY				Skin		0.30		0.30			0.30			0.69													
+(SGH)				Ring																							
+DR HUSSAIN		Pl00001961		Body		0.16		0.16			0.16			0.16						B            J							
+ZAINAB (SGH)				Skin		0.16		0.16			0.16			0.16													
+				Ring																							
+DR KEE TZE		P100001860		Body										0.62						G							
+PHEI (SGH)				Skin										0.65													
+				Ring																							
+Wearer Name		"Wearer ID
+No."		Dose Type		Current (mSv)		Accumulated Year (mSv)		Accumulated 5-Year (mSv)						Accumulated Life (mSv)			Remarks Code								
+DR LAU CHIN		P100001673		Body		0.19		0.19		0.19						1.27			B      v								
+WAH (SGH)				Skin		0.20		0.20		0.20						1.89											
+				Ring																							
+DR LAW NGIE		P100001969		Body		0.16		0.16		0.16						0.16			"B       .,/"								
+CHANG (SGH)				Skin		0.16		0.16		0.16						0.16											
+				Ring																							
+DR LEE		P100001859		Body												0.49			G								
+SHUHUI				Skin												0.51											
+MELISSA (SGH)				Ring																							
+DR LEE YEE		P100001286		Body		0.14		0.14		0.14						2.44			B       V								
+WAH				Skin		0.15		0.15		0.15						2.45											
+MARGARET				Ring																							
+(SGH)																											
+DR U		P100001675		Body		0.22		0.22		0.22						2.67			B         ./								
+JUNSIYUAN				Skin		0.23		0.23		0.23						2.73											
+(SGH)				Ring																							
+DR LIM YUAN		P100001970		Body															G								
+TING ELVIN				Skin																							
+(SGH)				Ring																							
+DR LIM YURUI		P100001864		Body		0.24		0.24		0.24						0.91			B        ·v'								
+DAVID (SGH)				Skin		0.24		0.24		0.24						0.91											
+				Ring																							
+DR NHO PAUL		P100001862		Body		0.21		0.21		0.21						0.93			B        .J								
+"SEUNGHYUN
+(SGH)"				Skin Ring		0.24		0.24		0.24						1.12											
+DR OLIVER		L009860254		Body												3.05			G								
+JAMES				Skin												3.20											
+NICKALLS				Ring																							
+(SGH)																											
+DR SAYANI		Pl00001926		Body		0.15		0.15		0.15						0.39			B        J								
+RAZA (SGH)				Skin		0.16		0.16		0.16						0.40											
+				Ring																							
+DR TAN BANGWEI		P100001971		Body Skin															G								
+MARK (SGH)				Ring																							
+Wearer Name		Wearer ID No.		Dose Type		Current (mSv)		Accumulated Year (mSv)			Aceumulated 5-Year (mSv)						Accumulated Life (mSv)			Remarks Code							
+DR TAN EU JIN		Pl00001866		Body		0.14		0.14			0.14				0.64					B							
+(SGH)				Skin		0.15		0.15			0.15				0.65												
+				Ring																							
+DR TAN		Pl00001561		Body		0.23		0.23			0.23				1.20					B          v'							
+JINGXIAN				Skin		0.23		0.23			0.23				1.22												
+COLIN (SGH)				Ring																							
+DR TAN SIEW		P100001960		Body		0.16		0.16			0.16				0.16					B           J							
+LIM GRACE (SGH)				Skin Ring		0.16		0.16			0.16				0.16												
+DR TEO YI-		Pl00000338		Body		0.20		0.20			0.20				1.06					B         J							
+MING (SGH)				Skin		0.21		0.21			0.21				1.08												
+				Ring																							
+DR THAM WEI		Pl00000912		Body		0.19		0.19			0.19				0.98					B           V							
+PING (SGH)				Skin		0.19		0.19			0.19				0.98												
+				Ring																							
+DR		Pl00001972		Body																G							
+UPADHYAYA				Skin																							
+TRISHA (SGH)				Ring																							
+DR VORA		Pl00001564		Body		0.21		0.21			0.21				0.96					B         v'							
+BIMAL MAYUR				Skin		0.21		0.21			0.21				0.96												
+KUMAR  (SGH)				Ring																							
+DR WANG QI		Pl00001861		Body											0.59					G							
+WEI MARK				Skin											0.61												
+(SGH)				Ring																							
+DR WANG		Pl00001427		Body		0.16		0.16			0.16				0.39					B      v							
+SHIYUAN				Skin		0.16		0.16			0.16				0.39												
+(SGH)				Ring																							
+EDNA DATING		S7463849Z		Body		0.17		0.17			0.17				0.85					B        v'							
+DEL PUERTO				Skin		0.17		0.17			0.17				0.86												
+				Ring																							
+EFREN		G5032598P		Body		0.17		0.17			0.17				3.53					B        J							
+GATCHALIAN				Skin		0.19		0.19			0.19				3.60												
+KHO JR.				Ring																							
+Wearer Name		Wearer ID No.		Dose Type		Current (mSv)		Accumulated Year (mSv)		Accumulated 5-Year (mSv)						Accumulated Life (mSv)			Remarks Code								
+ELENO AYSON		S2730154A		Body		0.23		0.23		0.23						9.76			B        V								
+ESPINO				Skin		0.23		0.23		0.23						10.14											
+				Ring																							
+EU TIJN WEN		S8731646G		Body		0.19		0.19		0.19						7.27			B         V								
+BENJAMIN				Skin		0.20		0.20		0.20						7.75											
+				Ring																							
+FANG TING-		05359359W		Body		0.17		0.17		0.17						1.96			B       v								
+SHU				Skin		0.18		0.18		0.18						2.04											
+				Ring																							
+FARAH GILLAN		G6249008Q		Body												12.32			G								
+IRANI				Skin												13.38											
+				Ring																							
+FARANURSHEI		S9028273E		Body		0.25		0.25		0.25						4.48			B    v								
+LA BTE OMAR				Skin		0.26		0.26		0.26						4.54											
+				Ring																							
+FARIAN  S.		G5003709L		Body												3.57			G								
+MARIQUINA				Skin												3.64											
+				Ring																							
+PATRIN		S9203093H		Body												0.43			G								
+AADILAH BTE				Skin												0.44											
+AZMAN				Ring																							
+FERDINAND  L.		L259883		Body		0.17		0.17		0.17						17.79			B     v								
+BERNARDO				Skin		0.17		0.17		0.17						18.53											
+				Ring																							
+FONG CHIN		S7205713I		Body		0.20		0.20		0.20						15.94			B     v								
+TECK				Skin		0.20		0.20		0.20						17.05											
+				Ring																							
+FONG NGAN		S1183548A		Body		0.20		0.20		0.20						16.06			B         \./								
+KEONG				Skin		0.23		0.23		0.23						17.82											
+				Ring																							
+FONG XIN YI		S8720223B		Body		0.17		0.17		0.17						6.92			B   v								
+				Skin		0.17		0.17		0.17						7.41											
+				Ring																							
+Wearer Name		Wearer ID No.		Dose Type		Current (mSv)		Accumulated Year (mSv)			Accumulated 5-Year (mSv)						Accumulated Life (mSv)			Remarks Code							
+FOOH CHOON		S7578666B		Body		0.17		0.17			0.17			18.38						B				v'			
+HOCK				Skin		0.18		0.18			0.18			19.62													
+				Ring																							
+GALILEO L.		G5031438W		Body		0.17		0.17			0.17			3.99						B				7			
+BENGO JR.				Skin		0.17		0.17			0.17			4.06													
+				Ring																							
+GERARMAN		G6471053U		Body										3.54						G							
+EMELYN				Skin										3.61													
+ABADINAS				Ring																							
+GIANCARLO		G5912906L		Body		0.21		0.21			0.21			11.25						B				v			
+LINDO CRUZ				Skin		0.23		0.23			0.23			13.12													
+				Ring																							
+GLENN		G5892833Q		Body		0.13		0.13			0.13			6.60						B				./			
+RAVELO				Skin		0.14		0.14			0.14			6.86													
+ROCELA				Ring																							
+GOH CHIA		S7626245D		Body		0.19		0.19			0.19			5.69						B				V			
+RWE CANDICE				Skin		0.19		0.19			0.19			5.95													
+				Ring																							
+GOH KOON		S1473256Z		Body		0.19		0.19			0.19			13.72						B				vi			
+LENG				Skin		0.21		0.21			0.21			16.10													
+				Ring																							
+GOH MEI ZI		S9116016A		Body		0.21		0.21			0.21			3.88						B				V			
+HENRIETTA				Skin		0.21		0.21			0.21			3.94													
+				Ring																							
+GOH SHY		S7579607B		Body		0.19		0.19			0.19			15.61						B							
+YUNN				Skin Ring		0.21		0.21			0.21			16.27													
+HAFIZAH		S8837875Z		Body		0.20		0.20			0.20			5.77						B				v'			
+BINTE				Skin		0.21		0.21			0.21			6.08													
+MUHAMAD				Ring																							
+I-IAFSAH BT		S2008863Z		Body		0.17		0.17			0.17			4.87						B				J			
+ANUAR				Skin		0.20		0.20			0.20			5.97													
+				Ring																							
+v'																											
+Wearer Name		"Wearer ID
+No."		Dose Type		Current (mSv)		Accumulated Year (mSv)		Accumulated 5-Year (mSv)						Accumulated Life (mSv)			Remarks Code								
+RAJA		G5425540W		Body		0.26		0.26		0.26						1.89			B               V								
+MOHIDEEN				Skin		0.28		0.28		0.28						1.94											
+SALAHUDEEN				Ring																							
+MOHAMED																											
+HANIFAH BIN		S0017984A		Body		0.17		0.17		0.17						16.44			B          ·./								
+MOHAMED				Skin		0.18		0.18		0.18						87.37											
+EUSOPE				Ring																							
+HASNAH BTE		Sl803503J		Body												3.33			G								
+MOHAMAD				Skin												3.36											
+HASSAN				Ring																							
+HENG IVY		S7900628I		Body		0.16		0.16		0.16						14.21			B    v								
+				Skin		0.16		0.16		0.16						14.71											
+				Ring																							
+HO CHI LONG		S2739205I		Body															G								
+				Skin																							
+				Ring																							
+HO CHIA MING		S7820104E		Body		0.16		0.16		0.16						2.18			B         v'								
+				Skin		0.17		0.17		0.17						2.27											
+				Ring																							
+HO HUI PING		S8834991A		Body												6.26			G								
+				Skin												6.72											
+				Ring																							
+HO SIE YANG		G0952039U		Body		0.20		0.20		0.20						6.97			B        ._/								
+JOSHUA				Skin		0.20		0.20		0.20						7.05											
+				Ring																							
+HO XIU MEI		S8341360C		Body		0.15		0.15		0.15						10.10			B         v'								
+JAMIE				Skin		0.15		0.15		0.15						10.51											
+				Ring																							
+HOMER		G6307910W		Body		0.15		0.15		0.15						4.57			B    v								
+BANAGUDOS				Skin		0.16		0.16		0.16						4.67											
+BORBON				Ring																							
+HONEY TURA		G6368668P		Body		0.24		0.24		0.24						4.48			B   v								
+MANDAP				Skin		0.24		0.24		0.24						4.51											
+				Ring																							
+Wearer Name		Wearer ID No.		Dose Type		Current (mSv)		Accumulated Year (mSv)			Accumulated 5-Year (mSv)						Accumulated Life (mSv)			Remarks Code							
+HSIAO YI		G6463899N		Body		0.18		0.18			0.18				3.20					B        v'							
+CHUN				Skin		0.18		0.18			0.18				3.24												
+				Ring																							
+HSU HUI-EN		G0248692Q		Body		0.16		0.16			0.16				2.11					B        .J							
+				Skin		0.17		0.17			0.17				2.12												
+				Ring																							
+HTAR EI KHlN		G5387475X		Body		0.21		0.21			0.21				2.27					B        J							
+				Skin		0.22		0.22			0.22				2.28												
+				Ring																							
+HU SHEN		S9171040D		Body		0.18		0.18			0.18				5.79					"B        ,/"							
+				Skin		0.18		0.18			0.18				5.90												
+				Ring																							
+HUANG		S9171506F		Body		0.18		0.18			0.18				5.69					B       v							
+MEILING				Skin		0.19		0.19			0.19				5.77												
+				Ring																							
+HUNG CHING		G0056736T		Body		0.16		0.16			0.16				1.94					B       V							
+TING				Skin		0.17		0.17			0.17				1.95												
+				Ring																							
+IEONG		G5159564K		Body		0.17		0.17			0.17				2.07					B    v							
+KINGSON				Skin		0.18		0.18			0.18				2.08												
+				Ring																							
+IRENE ROSS		G6274424W		Body											5.32					G							
+CAALEM				Skin											5.65												
+ALIMONGKING				Ring																							
+JAMES DIAZ		G6302693Q		Body		0.18		0.18			0.18				7.34					B        v'							
+CAYMO				Skin		0.20		0.20			0.20				8.51												
+				Ring																							
+JANET CALLO		G7777345U		Body		0.14		0.14			0.14				7.59					B        v'							
+TORIO				Skin		0.15		0.15			0.15				7.83												
+				Ring																							
+JASWINDER		S7471445E		Body		0.14		0.14			0.14				4.79					B        \/							
+KAUR D/0				Skin		0.14		0.14			0.14				4.95												
+RAJINDER				Ring																							
+SINGH																											
+Wearer Name	Wearer ID			Dose Type		Current		Accumulated		Accumulated						Accumulated			Remarks								
+	No.					(mSv)		Year (mSv)		5-Year (mSv)						Life (mSv)			Code								
+JEREMIAS  JR		G5031486W		Body										4.17				G									
+CARBONEL				Skin										4.29													
+CILLO JR.				Ring																							
+JESSALENE		G0962292L		Body	0.15		0.15		0.15					6.04				B       v									
+HANNA				Skin	0.15		0.15		0.15					6.18													
+ANBILLIAN				Ring																							
+JESUDURAI																											
+JONATHAN G.		G5032237N		Body	0.16		0.16		0.16					4.50				B         v'									
+MISAJON				Skin	0.16		0.16		0.16					4.50													
+				Ring																							
+JONATHAN		S7561186B		Body	0.24		0.24		0.24					9.84				B      V									
+VILLAMOR				Skin	0.30		0.30		0.30					11.01													
+LUZANO				Ring																							
+JOSEPH		G6302513K		Body	0.24		0.24		0.24					8.06				B          .I									
+AMERNA				Skin	0.40		0.40		0.40					9.25													
+DAYUTA				Ring																							
+JUNLILA BT		S6974006E		Body	0.19		0.19		0.19					6.86				B									
+HASAN				Skin	0.20		0.20		0.20					7.20													
+				Ring																							
+KALSOM BTE		S1601239D		Body	0.21		0.21		0.21					28.47				B									
+SALAMAT				Skin	0.22		0.22		0.22					35.05													
+				Ring																							
+KANG JTA HUI		S8905789B		Body	0.16		0.16		0.16					5.93				B          J									
+				Skin	0.18		0.18		0.18					6.19													
+				Ring																							
+KANG XIU		S8813087A		Body	0.14		0.14		0.14					5.34				B          'v									
+QING				Skin	0.15		0.15		0.15					5.66													
+SAMANTHA				Ring																							
+KARADDI		G5277141U		Body	0.25		0.25		0.25					8.27				B          ·v'									
+VENKATANAR				Skin	0.25		0.25		0.25					9.99													
+ASIMHA				Ring																							
+NANDA																											
+KUMAR																											
+KAY THI SOE		S2736132C		Body	0.19		0.19		0.19					10.32				B          ./									
+				Skin	0.19		0.19		0.19					10.81													
+				Ring																							
+Wearer Name		Wearer  ID No.		Dose Type		Current (mSv)		Accumulated Year (mSv)			Accumulated 5-Year (mSv)						Accumulated Life (mSv)			Remarks Code							
+KEE YONG		S9023463C		Body		0.14		0.14			0.14						5.07			B        /							
+HAN ADAM				Skin		0.14		0.14			0.14						5.11										
+				Ring																							
+KEK SEE SIEW		G6148523L		Body													3.58			G							
+				Skin													3.61										
+				Ring																							
+KHO YING		S8483264B		Body		0.21		0.21			0.21						5.86			B         v'							
+YING				Skin		0.22		0.22			0.22						6.19										
+				Ring																							
+KIEW YEN SAN		S7418932F		Body		0.10		0.10			0.10						20.25			B       V							
+				Skin		0.12		0.12			0.12						21.50										
+				Ring																							
+KING		G5032490M		Body		0.16		0.16			0.16						3.62			B        ./							
+MACAPOBRE				Skin		0.18		0.18			0.18						3.69										
+OLIGARIO				Ring																							
+KIRANJEET		S8943928J		Body		0.22		0.22			0.22						0.46			B         J							
+KAUR				Skin		0.22		0.22			0.22						0.46										
+				Ring																							
+KOAY BENG EE		S7817486B		Body													4.99			G							
+				Skin													5.12										
+				Ring																							
+KOH AH SING		S2169851B		Body		0.13		0.13			0.13						28.17			B     v							
+SALEM				Skin		0.13		0.13			0.13						48.06										
+				Ring																							
+KOH BEE HUA		S0127534H		Body		0.15		0.15			0.15						35.98			B        ../							
+				Skin		0.15		0.15			0.15						82.30										
+				Ring																							
+KOH HUI SEI		S9202737F		Body		0.15		0.15			0.15						3.97			"B      .,/"							
+				Skin		0.15		0.15			0.15						4.04										
+				Ring																							
+KUAN LING		S8406617F		Body		0.14		0.14			0.14						10.66			B       v'							
+SHI SHARON				Skin		0.14		0.14			0.14						11.25										
+				Ring																							
+Wearer Name		Wearer ID No.		Dose Type		Current (mSv)		Accumulated Year (mSv)		Accumulated 5-Year (mSv)						Accumulated Life (mSv)			Remarks Code								
+KWAN PU YEN		S7670452Z		Body		0.25		0.25		0.25						6.12			B         ·../								
+MAXIMILLIAN				Skin		0.26		0.26		0.26						6.21											
+				Ring																							
+KWOK YEW		1525386Z		Body		0.16		0.16		0.16						14.70			B			v					
+MUN				Skin		0.16		0.16		0.16						16.85											
+				Ring																							
+LADERA		G5174450R		Body		0.15		0.15		0.15						3.80			B			v					
+MICHAEL				Skin		0.16		0.16		0.16						3.85											
+MAXIMO				Ring																							
+LAGUYO JESUS		G5172579X		Body		0.20		0.20		0.20						3.91			B        ./								
+BENGUET				Skin		0.20		0.20		0.20						3.95											
+				Ring																							
+LAI MEI SAN		S7333051C		Body		0.14		0.14		0.14						15.23			B								
+LILY				Skin		0.14		0.14		0.14						18.51			'1/								
+				Ring																							
+LAILA		G7085472X		Body		0.18		0.18		0.18						4.17			B								
+GUTIERREZ				Skin		0.19		0.19		0.19						4.18			V								
+MANANGAN				Ring																							
+LATIFAH BTE		S1584504Z		Body		0.24		0.24		0.24						3.55			B       ·vi'								
+ABDUT LATIFF				Skin		0.26		0.26		0.26						3.71											
+				Ring																							
+LAU MEI NOAH		S7838008Z		Body		0.17		0.17		0.17						22.99			B        ·v								
+ADELINE				Skin		0.17		0.17		0.17						24.34											
+				Ring												1.90											
+LAU SIMIN		S8435882G		Body		0.19		0.19		0.19						10.63			B								
+DENISE				Skin		0.19		0.19		0.19						11.19			v'								
+				Ring																							
+LAUDATO		G6320462K		Body		0.20		0.20		0.20						5.77			B        v'								
+CESAR FERRER				Skin		0.21		0.21		0.21						5.89											
+				Ring																							
+LAW YAN MEE   S7615872Z        Body              0.13                    0.13                    0.13                    8.33                    B        ·vi																											
+Skin                0.16                    0.16                    0.16                    8.65																											
+Ring																											
+Wearer Name		Wearer ID No.		Dose Type		Current (mSv)		Accumulated Year (mSv)			Accumulated 5-Year (mSv)						Accumulated Life (mSv)			Remarks Code							
+LEE FAN (LI		S87379l 4J		Body		0.13		0.13			0.13				1.55					B          v'							
+FAN)				Skin		0.15		0.15			0.15				1.59												
+				Ring																							
+LEE LI NA		S2663792I		Body		0.14		0.14			0.14				13.93					"B         ,/"							
+				Skin		0.16		0.16			0.16				14.81												
+				Ring																							
+LEE MOH FAH		Sl321856J		Body		0.17		0.17			0.17				26.54					B          -/							
+GRACE				Skin		0.22		0.22			0.22				28.75												
+				Ring																							
+LEE PEI HSIA		S7830485E		Body		0.14		0.14			0.14				17.50					B							
+MICHELLE				Skin		0.17		0.17			0.17				18.95												
+				Ring																							
+LEE PEI YEE		S8843622I		Body		0.14		0.14			0.14				6.03					B            J							
+CHERIE				Skin		0.17		0.17			0.17				6.38												
+				Ring																							
+LEE SEON MI		S8807428I		Body		0.16		0.16			0.16				0.81					B     v							
+GRACE				Skin		0.17		0.17			0.17				0.83												
+				Ring																							
+LEE WEILING		S8631879B		Body											8.34					G							
+				Skin											8.67												
+				Ring																							
+LEE YIN-JU		G3022671U		Body		0.16		0.16			0.16				0.70					B    v							
+				Skin		0.18		0.18			0.18				0.72												
+				Ring																							
+LEO DE VERA		G6302613T		Body											5.92					G							
+TUGADE				Skin											6.29												
+				Ring																							
+LEONG CHEE		S7430717E		Body		0.14		0.14			0.14				9.38					B         V							
+HAO LESTER				Skin		0.18		0.18			0.18				9.77												
+				Ring																							
+LEONG KAI LI		G0948791W		Body		0.18		0.18			0.18				0.87					B          v1							
+				Skin		0.20		0.20			0.20				0.91												
+				Ring																							
+Wearer Name	Wearer ID			Dose Type		Current		Accumulated		Accumulated						Accumulated			Remarks								
+	No.					(mSv)		Year (mSv)		5-Year (mSv)						Life (mSv)			Code								
+LEONG SUM		G3009620M		Body	7.14		7.14		7.14					8.19				B       4+f								W-	
+				Skin	8.06		8.06		8.06					9.24													
+				Ring														"""11-D
+f   4cef
+f'"""":f«"								i\w	
+LI CHIA WEI		G6463957P		Body	0.10		0.10		0.10					1.86				B       v'									
+				Skin Ring	0.12		0.12		0.12					1.98													
+LI SHENG		S7676185Z		Body	0.18		0.18		0.18					17.85				B        v									
+				Skin	0.20		0.20		0.20					19.03													
+				Ring																							
+LIEW WAI		G6461072X		Body	0.13		0.13		0.13					4.30				B      v									
+TECK				Skin	0.16		0.16		0.16					4.42													
+				Ring																							
+LIM BENG		S0084653H		Body										14.70				G									
+CHOON				Skin										15.83													
+				Ring																							
+LIM BOON ANN		G5345026T		Body	0.15		0.15		0.15					2.44				B    I									
+				Skin	0.18		0.18		0.18					2.48													
+				Ring																							
+LIM CHEE		S1799525A		Body	0.12		0.12		0.12					18.37				B            \/									
+KIANG				Skin	0.12		0.12		0.12					19.56													
+				Ring																							
+LIM CHEE		S82l1701F		Body														G									
+YEONG				Skin																							
+				Ring																							
+LIM CHONG		S8679191I		Body	0.12		0.12		0.12					4.07				B       V									
+YEU COLTN				Skin	0.14		0.14		0.14					4.25													
+				Ring																							
+LIM ENG HOE		S1457594D		Body	0.17		0.17		0.17					13.79				B           ·J									
+WINSTON				Skin	0.19		0.19		0.19					19.42													
+				Ring																							
+LIM HOCK		S0257356C		Body	0.13		0.13		0.13					49.00				B      V									
+HUAY				Skin	0.16		0.16		0.16					72.66													
+				Ring																							
+"0(""(\   h1"																											
+"-#1,"																											
+"""'X'Nllf\"																											
+Wearer Name		Wearer ID No.		Dose Type		Current (mSv)		Accumulated Year  (mSv)			Accumulated 5-Year (mSv)						Accumulated Life (mSv)			Remarks Code							
+LIM KOK WAH		S8680951F		Body		0.15		0.15			0.15						5.27			B     v							
+				Skin		0.15		0.15			0.15						5.49										
+				Ring																							
+LIM LI JUN		G6359549M		Body		0.17		0.17			0.17						14.88			B         ·v							
+				Skin		0.21		0.21			0.21						15.06										
+				Ring																							
+LIM MEI YONG		S8481056H		Body		0.11		0.11			0.11						8.44			B    v							
+				Skin		0.13		0.13			0.13						8.93										
+				Ring																							
+LIM MUI HWEE		S1747538Z		Body		0.18		0.18			0.18						18.53			"B         \,,/"							
+MARGARET				Skin		0.21		0.21			0.21						19.81										
+				Ring																							
+LIM SHU MIN		S9002125G		Body		0.12		0.12			0.12						5.84			"B      ,/"							
+				Skin		0.14		0.14			0.14						6.03										
+				Ring																							
+LIM SOO LEE		S8405828I		Body		0.13		0.13			0.13						9.13			"B         ,/"							
+LINDA				Skin		0.13		0.13			0.13						9.81										
+				Ring																							
+LIM TEH AUN		S1485006F		Body		0.16		0.16			0.16						14.30			B          \/							
+				Skin		0.16		0.16			0.16						15.12										
+				Ring																							
+LIM YU JUN		S9148462E		Body		0.18		0.18			0.18						6.62			"B        ,/"							
+				Skin		0.21		0.21			0.21						6.88										
+				Ring																							
+LIN CHIA-YI		G5375110K		Body		0.20		0.20			0.20						2.26			B          \/							
+				Skin		0.25		0.25			0.25						2.60										
+				Ring																							
+LIN HUI-PING		G5307536W		Body		0.18		0.18			0.18						1.25			B           \/							
+				Skin		0.21		0.21			0.21						1.31										
+				Ring																							
+LIN SHIH-		G5314252X		Body		0.17		0.17			0.17						1.03			B       .J							
+CHUN				Skin		0.19		0.19			0.19						1.07										
+				Ring																							
+Wearer Name		Wearer ID No.		Dose Type		Current (mSv)		Accumulated Year (mSv)		Accumulated 5-Year (mSv)						Accumulated Life (mSv)			Remarks Code								
+LISHYA LIAUW		S2761739E		Body		0.16		0.16		0.16						6.51			B      v								
+				Skin		0.18		0.18		0.18						7.10											
+				Ring																							
+LIU CHI SING		G3034155X		Body		0.31		0.31		0.31						0.93			B         \/								
+MICHAEL				Skin		0.33		0.33		0.33						0.96											
+				Ring																							
+LIU TIAN		S6884753B		Body		0.17		0.17		0.17						6.47			B		·vi						
+				Skin		0.17		0.17		0.17						6.81											
+				Ring																							
+LIYANA BINTE		S8840274Z		Body		0.16		0.16		0.16						5.40			B		·v						
+ABDUL HAMID				Skin		0.16		0.16		0.16						5.64											
+				Ring																							
+LO HOAU		K7416952		Body		0.39		0.39		0.39						43.75			B		\/						
+GONG				Skin		0.48		0.48		0.48						49.69											
+RICHARD				Ring												17.56											
+LO KIM HIN		G5970095U		Body		0.13		0.13		0.13						5.70			B		v						
+				Skin		0.14		0.14		0.14						6.07											
+				Ring																							
+LOKE nuN		S7680251C		Body		0.18		0.18		0.18						16.54			B		",J"						
+SIONG				Skin		0.18		0.18		0.18						17.44											
+				Ring																							
+LOUIS ELLIOTT		G5188967W		Body		0.21		0.21		0.21						3.36			B		v'						
+MCADORY				Skin		0.21		0.21		0.21						3.44											
+				Ring																							
+LOVELY DAWN		G8347681N		Body		0.17		0.17		0.17						4.81			B		./						
+P. VASQUEZ				Skin		0.17		0.17		0.17						4.99											
+				Ring																							
+LOW CHOON		S7634464G		Body		0.28		0.28		0.28						7.34			B		·v						
+SENG SHOEN				Skin		0.28		0.28		0.28						7.68											
+				Ring																							
+LOW SOW		S0573939Z		Body		0.20		0.20		0.20						18.87			B		/						
+YUEN RUTH				Skin		0.20		0.20		0.20						19.43											
+				Ring																							
+Wearer Name		Wearer ID No.		Dose Type		Current (mSv)		Accumulated Year (mSv)			Accumulated 5-Year (mSv)						Accumulated Life (mSv)			Remarks Code							
+LOW SU		S7113199H		Body		0.23		0.23			0.23						11.95			B       /							
+CHONG				Skin		0.24		0.24			0.24						12.60										
+ALBERT				Ring																							
+LOW WEI YING		S8503687D		Body		0.28		0.28			0.28						11.16			B         ./							
+CHERYL				Skin		0.28		0.28			0.28						11.76										
+				Ring																							
+LOW XUAN LE		S9231187B		Body		0.15		0.15			0.15						0.81			"B          ,J"							
+				Skin		0.15		0.15			0.15						0.83										
+				Ring																							
+LOW YI XIAN		S8609928D		Body		0.17		0.17			0.17						8.10			B							
+				Skin		0.18		0.18			0.18						8.51										
+				Ring																							
+LU TA WEI		G3030812W		Body		0.23		0.23			0.23						0.66			B           .y							
+				Skin		0.25		0.25			0.25						0.69										
+				Ring																							
+MA HLAING		G6329916U		Body		0.16		0.16			0.16						4.69			B							
+HLAING MAW				Skin		0.17		0.17			0.17						4.81										
+				Ring																							
+MA VOON		G6087859K		Body		0.19		0.19			0.19						4.18			B       l/							
+CHEE				Skin		0.19		0.19			0.19						4.45										
+				Ring																							
+MADDAH		S8914981I		Body		0.26		0.26			0.26						6.41			B           ·v							
+BINTE ABDUL				Skin		0.26		0.26			0.26						6.64										
+RAHIM				Ring																							
+MANALO		G6327018R		Body		0.24		0.24			0.24						6.47			B            .j							
+JEFFREY				Skin		0.26		0.26			0.26						6.84										
+OPINA				Ring																							
+MANIPOR		G6389621M		Body		0.27		0.27			0.27						5.74			B							
+JOSEF RAY				Skin		0.28		0.28			0.28						6.05										
+ALVENDIA				Ring																							
+MARIA ADORA		G6252206U		Body		0.20		0.20			0.20						1.82			B              /							
+GONZALES				Skin		0.21		0.21			0.21						1.90										
+CONCEPCION				Ring																							
+Wearer Name		Wearer ID No.		Dose Type		Current (mSv)		Accumulated Year (mSv)		Accumulated 5-Year (mSv)						Accumulated Life (mSv)			Remarks Code								
+																											
+MARIA INGRID		G5111166X		Body												3.18			G								
+SULLA AYAG				Skin												3.18											
+				Ring																							
+MARINA		G6262531M		Body		0.18		0.18		0.18						1.95			B        v								
+IGNACIO CRUZ				Skin		0.20		0.20		0.20						2.03											
+				Ring																							
+MARINA MAT		S1777844G		Body		0.15		0.15		0.15						28.52			B        J'								
+ROM				Skin		0.23		0.23		0.23						32.02											
+				Ring																							
+MARY JOY		06369741P		Body												3.52			G								
+DELIERA				Skin												3.57											
+ALMORFE				Ring																							
+MAUNG MYINT		C879911D		Body		0.19		0.19		0.19						24.97			B   v								
+HTOO				Skin		0.21		0.21		0.21						29.57											
+				Ring																							
+MAUNG PAR		F2239802N		Body		0.26		0.26		0.26						15.99			B					".,/"			
+				Skin		0.26		0.26		0.26						16.85											
+				Ring																							
+MICHAEL		S7560355Z		Body		0.13		0.13		0.13						11.90			B								
+CASTRO DELA				Skin		0.16		0.16		0.16						12.30											
+CRUZ				Ring																							
+MICHELLE		G5181488L		Body		0.19		0.19		0.19						3.43			B								
+SUSAN				Skin		0.20		0.20		0.20						3.46											
+NELSON				Ring																							
+MOEY HUI LIN		S8021756J		Body		0.24		0.24		0.24						0.24			B					/			
+TAMMY				Skin		0.47		0.47		0.47						0.47											
+				Ring																							
+MOHAMAD		S8406760A		Body		0.16		0.16		0.16						7.97			B								
+KHAIRUL BIN				Skin		0.17		0.17		0.17						8.32											
+YUSOF				Ring																							
+MOHD SHAH		S0063549I		Body		0.15		0.15		0.15						38.82			B								
+BIN WALAT				Skin		0.15		0.15		0.15						53.71											
+				Ring																							
+Cl'																											
+Wearer Name		Wearer  ID No.		Dose Type		Current (mSv)		Accumulated Year (mSv)			Accumulated 5-Year (mSv)						Accumulated Life (mSv)			Remarks Code							
+MUHAMMAD		S8903281D		Body		0.15		0.15			0.15						4.33			B     v							
+AMIRULZAMA				Skin		0.16		0.16			0.16						4.39										
+N BIN MOHD				Ring																							
+AZMAN																											
+MUHAMMAD		S8625325I		Body		0.14		0.14			0.14						6.31										
+FARHAN BIN				Skin		0.14		0.14			0.14						6.71										
+OTHMAN				Ring																							
+MUHAMMAD		S8714494A		Body		0.11		0.11			0.11						5.30			B       7							
+"FAUZIE BIN
+MUHAMMAD"				Skin Ring		0.13		0.13			0.13						5.56										
+YUNOS																											
+MUHAMMAD		S8843044A		Body		0.11		0.11			0.11						6.08			"B          ,./"							
+HAFIZ BIN ZAINAL				Skin Ring		0.13		0.13			0.13						6.34										
+MUHAMMAD		S8135066C		Body		0.18		0.18			0.18						13.02			B      v							
+ILLYYAS BIN				Skin		0.19		0.19			0.19						13.62										
+MAHMOOD				Ring																							
+MUHAMMAD		S9026074Z		Body		0.19		0.19			0.19						4.28			B         \/							
+"SYADAD BIN
+SULAIMAN"				Skin Ring		0.20		0.20			0.20						4.33										
+MUTHUPALANI		S1690510J		Body		0.14		0.14			0.14						12.97			B          \/							
+S/0 AYYAKANNU				Skin Ring		0.16		0.16			0.16						13.72										
+MYINT YEE		G6312022M		Body		0.19		0.19			0.19						4.86			B    v							
+				Skin		0.19		0.19			0.19						4.99										
+				Ring																							
+MYO HAN WIN		G6049154U		Body		0.17		0.17			0.17						5.26			B          ./							
+				Skin		0.17		0.17			0.17						5.59										
+				Ring																							
+MYO MIN TUN		G6096142K		Body		0.16		0.16			0.16						0.86			B       .J							
+				Skin		0.16		0.16			0.16						0.87										
+				Ring																							
+NARAYAN		G5868486X		Body		0.19		0.19			0.19						7.59			B        v'							
+LATH				Skin		0.20		0.20			0.20						7.96										
+				Ring																							
+B          <I																											
+Wearer Name		Wearer ID No.		Dose Type		Current (mSv)		Accumulated Year (mSv)		Accumulated 5-Year (mSv)						Accumulated Life (mSv)			Remarks Code								
+																											
+NAZRANA		S8510662G		Body		0.15		0.15		0.15						9.55			B    v								
+BlNTE ABDUL				Skin		0.17		0.17		0.17						10.26											
+GULAM				Ring																							
+NELSON		G6302650L		Body		0.16		0.16		0.16						5.03			B        ·./								
+ENANO				Skin		0.17		0.17		0.17						5.22											
+GONZAGA				Ring																							
+NG CHIAN		G5335486L		Body		0.13		0.13		0.13						2.31			B        \/								
+KEAT				Skin Ring		0.13		0.13		0.13						2.32											
+NG FOOK		S0273224F		Body		0.14		0.14		0.14						42.31			B        v7								
+CHEONG				Skin		0.15		0.15		0.15						169.76											
+				Ring																							
+NG HON WlNG		S0257357A		Body		0.13		0.13		0.13						36.10			B         \/								
+				Skin		0.16		0.16		0.16						83.63											
+				Ring																							
+NG TIA JUN		S8327825J		Body												9.84			G								
+				Skin												10.42											
+				Ring																							
+NG LENG TAI		Sl128170B		Body		0.15		0.15		0.15						23.60			B       ./								
+				Skin		0.16		0.16		0.16						82.92											
+				Ring																							
+NG PUI YUNG		S1706683H		Body		0.20		0.20		0.20						40.08			B        v'								
+				Skin		0.21		0.21		0.21						43.20											
+				Ring																							
+NG SEOK HUI		S9118977A		Body		0.18		0.18		0.18						5.53			B       ./								
+CLARABELLE				Skin		0.18		0.18		0.18						5.68											
+				Ring																							
+NG SHE KEE		S8441707F		Body		0.16		0.16		0.16						16.74			B      .J								
+(HUANG SHIQI)				Skin		0.17		0.17		0.17						17.26											
+				Ring																							
+NG YUEN LI		G6049618N		Body												5.65			G								
+				Skin												5.89											
+				Ring																							
+Wearer Name		Wearer ID No.		Dose Type		Current (mSv)		Accumulated Year (mSv)			Accumulated 5-Year (mSv)						Accumulated Life (mSv)			Remarks Code							
+NITHIYA  D/0		G5163378X		Body		0.20		0.20			0.20						4.35			B          J							
+JAYAMANI				Skin		0.20		0.20			0.20						5.07										
+				Ring																							
+NOOR AZLEN		S7716018C		Body		0.20		0.20			0.20						1.95			B         ·J							
+BINTE HUSIN				Skin		0.21		0.21			0.21						1.98										
+				Ring																							
+NOR LIANA		S8804515G		Body		0.15		0.15			0.15						7.64			B      V							
+BINTE				Skin		0.16		0.16			0.16						8.12										
+MOHAMED				Ring																							
+SAHRI																											
+NOR LIYANA		S8936593G		Body		0.12		0.12			0.12						5.13			B       .							
+BINTE MAT				Skin		0.13		0.13			0.13						5.33										
+RAIS				Ring																							
+NORHARIFAH		S8541789D		Body													8.88			G							
+BTE ZAINAL				Skin													9.38										
+				Ring																							
+NORHIDAYAH		S8602974Z		Body		0.22		0.22			0.22						0.77			B        ·v							
+BINTE AMIR				Skin		0.22		0.22			0.22						0.79										
+				Ring																							
+NORZAKlAH		S8623637J		Body													0.50			G							
+BTE ZAMALI				Skin													0.50										
+				Ring																							
+NUR FITRI RIA		S9113304J		Body		0.21		0.21			0.21						4.38			B         ·v'							
+BINTI MD ALI				Skin		0.21		0.21			0.21						4.59										
+				Ring																							
+NUR  SAKINAH		S9310028Z		Body		0.18		0.18			0.18						0.45			B        ·./							
+SARIPIE				Skin		0.18		0.18			0.18						0.45										
+				Ring																							
+NUR		S9248706G		Body		0.17		0.17			0.17						4.88			"B      ,./"							
+SHAHIRAH				Skin		0.17		0.17			0.17						4.89										
+KIONG BTE				Ring																							
+MUHAMMAD																											
+ISA AB																											
+NUR  SHUHADA		S9119109A		Body													0.50			G							
+BTE ABU				Skin													0.50										
+BAKAR				Ring																							
+1 HOSPITAL DRJVE																											
+SINGAPORE GENERAL HOSPITAL SINGAPORE  169608																											
+Attn: MS TOH HONG GUAN																											
+Wearer Name		Wearer ID No.		Dose Type		Current (mSv)		Accumulated Year (mSv)		Accumulated 5-Year (mSv)						Accumulated Life (mSv)			Remarks Code								
+NUR ZAKIAH		S8922066A		Body		0.19		0.19		0.19						6.05			B      v								
+BINTE SIDEK				Sldn		0.22		0.22		0.22						6.48											
+				Ring																							
+NURFADILAH		S9015079J		Body		0.15		0.15		0.15						5.91			B       v'								
+BINTE ffiJSSIN				Skin		0.18		0.18		0.18						6.04											
+				Ring																							
+NURHAZWANI		S9006384G		Body		0.12		0.12		0.12						6.10			B        ·J								
+BINTE ROSLAN				Skin		0.13		0.13		0.13						6.27											
+				Ring																							
+NURKHAIRUN		S9031432G		Body		0.20		0.20		0.20						1.27			B       v								
+NISA' BINTI				Skin		0.21		0.21		0.21						1.30											
+ABDUL				Ring																							
+RAHMAN																                                                         			l								
+NURUL		S8412739F		Body		0.16		0.16		0.16						10.16			B        J								
+ADLIAH				Skin		0.17		0.17		0.17						10.52											
+GAZALI				Ring																							
+OLIVER D.		05891013P		Body		0.14		0.14		0.14						7.77			B       v								
+LAROCO				Skin		0.15		0.15		0.15						8.16											
+				Ring																							
+ONG HAN BIN		S8502341A		Body												8.02			G								
+				Skin												8.39											
+				Ring																							
+ONG JUN REN		S8534838H		Body												8.00			G								
+				Skin												8.43											
+				Ring																							
+OOI CHIN CHIN		S7476766D		Body		0.15		0.15		0.15						15.32			B      'V								
+				Skin		0.16		0.16		0.16						16.13											
+				Ring																							
+OOI XIAN ffiJA		S9070566J		Body		0.30		0.30		0.30						6.40			"B       ,J"								
+				Skin		0.30		0.30		0.30						6.51											
+				Ring																							
+P. CHANDRA		S6916681D		Body		0.17		0.17		0.17						11.21											
+MOHAN				Skin		0.17		0.17		0.17						11.65											
+				Ring																							
+B      v																											
+Wearer Name		Wearer ID No.		Dose Type		Current (mSv)		Accumulated Year (mSv)			Accumulated 5-Year (mSv)						Accumulated Life (mSv)			Remarks Code							
+PADRE		S2736182Z		Body		0.15		0.15			0.15						11.86			B    v							
+CORNELIO				Skin		0.15		0.15			0.15						12.58										
+GUTIERREZ				Ring																							
+PARAG R.		G5880176W		Body		0.29		0.29			0.29						3.48			B    v							
+SALKADE				Skin		0.31		0.31			0.31						3.52										
+				Ring																							
+PEK XINYI		S9126321A		Body		0.17		0.17			0.17						4.06			B     v							
+JESLYN				Skin		0.19		0.19			0.19						4.10										
+				Ring																							
+PHANG YI		S8614862E		Body													7.91			G							
+XUAN				Skin													8.46										
+				Ring																							
+PHWAY		G3084838T		Body		0.20		0.20			0.20						0.20			B     v							
+PHWAY OO				Skin		0.23		0.23			0.23						0.23										
+				Ring																							
+PNG MENG AI		Sl406676D		Body													13.77			G							
+				Skin													14.60										
+				Ring																							
+POON JING YU		S8723856C		Body		0.15		0.15			0.15						2.49			B          -J							
+				Skin		0.16		0.16			0.16						2.79										
+				Ring																							
+PRECIOUS P.		G6365461U		Body		0.15		0.15			0.15						5.34			B          J							
+FEBRERO				Skin		0.15		0.15			0.15						5.45										
+				Ring																							
+PREM SINGH		S8411829Z		Body													9.35			G							
+S/O HARBANS				Skin													9.78										
+SINGH				Ring																							
+PUA KAH MEI		S9170334C		Body		0.21		0.21			0.21						4.84			B    v							
+AMANDA				Skin		0.23		0.23			0.23						4.87										
+				Ring																							
+PULUPULA		G5466722T		Body		0.27		0.27			0.27						1.67										
+VENKATA				Skin		0.28		0.28			0.28						1.68										
+NARASIMHA				Ring																							
+KUMAR																											
+B   v																											
+Wearer Name		Wearer ID No.		Dose Type		Current (mSv)		Accumulated Year (mSv)		Accumulated 5-Year (mSv)						Accumulated Life (mSv)			Remarks Code								
+																											
+PUSPAVATHY		S2168032Z		Body		0.17		0.17		0.17						5.55			B         v'								
+D/0				Skin		0.17		0.17		0.17						6.06											
+VARATHAPPA				Ring																							
+N NAIDU																											
+PUTI NUR		S9334836B		Body		0.29		0.29		0.29						1.20			B       V								
+AZLINDA				Skin		0.35		0.35		0.35						1.34											
+BINTE AZIZ				Ring																							
+RAFIDAH BTE		S2186376I		Body		0.19		0.19		0.19						19.70			B    v								
+ABU BAKAR				Skin		0.19		0.19		0.19						22.20											
+				Ring																							
+RIFFY		S7168028B		Body		0.23		0.23		0.23						7.22			B								
+MENDOZA				Skin		0.25		0.25		0.25						7.62											
+LADERA				Ring																							
+RODEL R.		05038118N		Body		0.16		0.16		0.16						4.33			B								
+SANTOS				Skin		0.16		0.16		0.16						4.38											
+				Ring																							
+ROHADIAH		S6908990I		Body		0.16		0.16		0.16						5.64			B         ·v								
+BTE AHMAD				Skin		0.17		0.17		0.17						5.84											
+				Ring																							
+ROHAN! BINTE		S1257165H		Body		0.21		0.21		0.21						10.93			B       V								
+AHMAD				Skin		0.23		0.23		0.23						11.66											
+				Ring																							
+RONALD LEE		G5032193U		Body		0.24		0.24		0.24						4.59			B								
+DOBLON				Skin		0.24		0.24		0.24						4.67											
+				Ring																							
+ROSHERINNA		S8805246C		Body		0.12		0.12		0.12						6.65			B        \/								
+BTE RAHMAT				Skin		0.13		0.13		0.13						7.09											
+				Ring																							
+ROSNAH BTE		S1390077I		Body												5.33			G								
+AHAD				Skin												5.53											
+				Ring																							
+SABINO ALREY		S7369306C		Body		0.16		0.16		0.16						5.60			B         /								
+G MANAGO				Skin		0.16		0.16		0.16						6.13											
+				Ring																							
+1 HOSPITAL  DRlVE																											
+SINGAPORE  GENERAL HOSPITAL SINGAPORE  169608																											
+Attn: MS TOH HONG GUAN																											
+Wearer Name		Wearer ID No.		Dose Type		Current (mSv)		Accumulated Year (mSv)			Accumulated 5-Year (mSv)						Accumulated Life (mSv)			Remarks Code							
+SAKUNTHALA		S1401785B		Body		0.16		0.16			0.16						8.79			B          ·v'							
+D/O JAYARAM				Skin		0.17		0.17			0.17						9.22										
+				Ring																							
+SANDEEP		G5221234R		Body		0.20		0.20			0.20						3.03			"B             ,./"							
+HALAGATTI				Skin		0.22		0.22			0.22						3.15										
+VENKATESH				Ring																							
+SANTHOSH RAJ		S7787560C		Body		0.16		0.16			0.16						2.11			B							
+SEELA RAJ				Skin		0.17		0.17			0.17						2.12										
+				Ring																							
+SARASWATHI		S8234807G		Body		0.15		0.15			0.15						4.05			B							
+D/0				Skin		0.15		0.15			0.15						4.05										
+SUBRAMANIA				Ring																							
+M																											
+SARAT KUMAR		G6382258U		Body		0.21		0.21			0.21						2.41			B            ·./							
+SANAMANDRA				Skin		0.21		0.21			0.21						2.81										
+				Ring																							
+SEETHO YOKE		S8606850H		Body		0.12		0.12			0.12						6.55			B             ./							
+SAN				Skin		0.12		0.12			0.12						7.11										
+				Ring																							
+SHAHIDAH BTE		S8628479J		Body		0.21		0.21			0.21						5.97			B            \/							
+JUMANI				Skin		0.22		0.22			0.22						6.31										
+				Ring																							
+SHANISZAH		S8903422A		Body		0.15		0.15			0.15						6.42			B							
+BINTE				Skin		0.17		0.17			0.17						6.86										
+JAMARUDDIN				Ring																							
+SHENG NAN		S8476528G		Body													3.06			G							
+				Skin													3.09										
+				Ring																							
+SIM HUI XIANG		S9225683I		Body													0.48			G							
+				Skin													0.49										
+				Ring																							
+SIM SHAO-JEN		S6829289A		Body		0.15		0.15			0.15						13.56			B							
+LLEWELLYN				Skin		0.17		0.17			0.17						14.24							·./			
+				Ring																							
+Wearer Name		Wearer ID No.		Dose Type		Current (mSv)		Accumulated Year (mSv)		Accumulated 5-Year (mSv)						Accumulated Life (mSv)			Remarks Code								
+SIM WANJOU		S8855456F		Body		0.20		0.20		0.20						3.78											
+				Skin		0.20		0.20		0.20						3.80											
+				Ring																							
+SIM WEI YOW		S8770233B		Body		0.14		0.14		0.14						6.13			B								
+				Skin		0.15		0.15		0.15						6.45											
+				Ring																							
+SITI AISHAH		S9036638F		Body		0.08		0.08		0.08						5.25			B          v'								
+BINTI WMA'AT				Skin		0.12		0.12		0.12						5.48											
+				Ring																							
+SITI ATIQAH		S9117815Z		Body		0.24		0.24		0.24						3.74			B    v								
+BINTE AZIZ				Skin		0.24		0.24		0.24						3.81											
+				Ring																							
+SITI		S8313148I		Body		0.14		0.14		0.14						10.07			B        ./								
+FATIMMAH				Skin		0.14		0.14		0.14						11.85											
+BTE				Ring																							
+MUHAMMAD																											
+SITI KHADIJAH		S8436376F		Body		0.23		0.23		0.23						1.03			B        ./								
+BTE MOHD ALI				Skin		0.24		0.24		0.24						1.05											
+				Ring																							
+SITI MARLINA		S8424573I		Body		0.14		0.14		0.14						6.43											
+BINTE JAMIL				Skin		0.15		0.15		0.15						6.78											
+				Ring																							
+SITI RAFFIAH		S8808304J		Body		0.18		0.18		0.18						2.62			B         v'								
+BINTE				Skin		0.19		0.19		0.19						2.69											
+RAMDAN				Ring																							
+SITI RAHAYU		S8234718F		Body		0.16		0.16		0.16						0.79			B        . v'								
+DINTE SUADI				Skin		0.16		0.16		0.16						0.80											
+				Ring																							
+SITI UMAIRA		S8807648F		Body		0.20		0.20		0.20						5.67			B     v								
+BINTE SU'AIDI				Skin		0.20		0.20		0.20						5.84											
+				Ring																							
+SITI ZAMNAR		S1822776B		Body		0.27		0.27		0.27						16.05			B           v'								
+BINTI SALLER				Skin		0.27		0.27		0.27						16.81											
+				Ring																							
+B      v																											
+B    v																											
+1HOSPITAL DRJVE																											
+SINGAPORE GENERAL HOSPITAL SINGAPORE  169608																											
+Attn: MS TOH HONG GUAN																											
+Wearer Name		Wearer ID No.		Dose Type		Current (mSv)		Accumulated Year (mSv)			Accumulated 5-Year (mSv)						Accumulated Life (mSv)			Remarks Code							
+SNG LI HOON		S7427543E		Body													13.50			G							
+				Skin													14.56										
+				Ring																							
+SOH BAO LIN		S8510856E		Body		0.19		0.19			0.19						5.31			B    v							
+PAULINE				Skin		0.19		0.19			0.19						5.59										
+				Ring																							
+SOH PO TAO		S8921115H		Body		0.18		0.18			0.18						4.11			B     /							
+EDDIE				Skin		0.21		0.21			0.21						4.23										
+				Ring																							
+SOH QINHUI		S8425650A		Body		0.17		0.17			0.17						11.98			B        J							
+				Skin		0.18		0.18			0.18						13.16										
+				Ring																							
+SULASTRl		S8010798F		Body		0.15		0.15			0.15						0.93			B   v							
+"BINTE
+MOHAMED"				Skin Ring		0.15		0.15			0.15						0.95										
+SUNG CHIA-		G5359379N		Body		0.21		0.21			0.21						2.18			"B         ,J"							
+LIN				Skin		0.22		0.22			0.22						2.20										
+				Ring																							
+SYAHIR NIZAM		S8411211I		Body		0.14		0.14			0.14						9.86			B          J							
+BIN ISMAIL				Skin		0.15		0.15			0.15						10.76										
+				Ring																							
+TABIFRANCA		MM130021		Body		0.21		0.21			0.21						9.76			"B         ,J"							
+"GLORIA
+CAPINDING"				Skin Ring		0.21		0.21			0.21						10.21										
+TAN BIEN SOO		S1424918D		Body													24.96			G							
+				Skin													28.22										
+				Ring																							
+TAN CHIN		S6973683A		Body		0.17		0.17			0.17						20.94			B							
+CHONG				Skin		0.17		0.17			0.17						26.29										
+				Ring																							
+TAN GAII(		G6275292R		Body		0.18		0.18			0.18						4.31			"B     ,/"							
+MOOI FLORENCE				Skin Ring		0.19		0.19			0.19						4.39										
+Wearer Name		Wearer ID No.		Dose Type		Current (mSv)		Accumulated Year (mSv)		Accumulated 5-Year (mSv)						Accumulated Life (mSv)			Remarks Code								
+TAN HUI PING		S8727354G		Body		0.12		0.12		0.12						6.94			B        V								
+				Skin		0.12		0.12		0.12						7.14											
+				Ring																							
+TAN HWEE		S8924803E		Body		0.15		0.15		0.15						5.06			B         v'								
+MIN				Skin		0.16		0.16		0.16						5.43											
+				Ring																							
+TAN HWEE		G6461144K		Body		0.15		0.15		0.15						4.64			B         ·./								
+SIAR				Skin		0.15		0.15		0.15						4.73											
+				Ring																							
+TAN IlN LUN		S8415336B		Body		0.11		0.11		0.11						11.39			B         ·V								
+BENNY				Skin		0.13		0.13		0.13						12.56											
+				Ring																							
+TAN KIM		S0163753C		Body		0.16		0.16		0.16						29.39			B         \/								
+LEONG				Skin		0.17		0.17		0.17						37.57											
+RAYMOND				Ring																							
+TAN LAY		S8528230A		Body		0.18		0.18		0.18						8.55			"B        ,/"								
+HOON				Skin		0.18		0.18		0.18						8.98											
+				Ring																							
+TAN LEE WEI		G6415571M		Body		0.21		0.21		0.21						3.79			B								
+				Skin		0.21		0.21		0.21						3.80											
+				Ring																							
+TAN PEI PEI		S7531883I		Body												10.06			G								
+				Skin												10.93											
+				Ring																							
+TAN SUAN		A16796617		Body		0.22		0.22		0.22						6.51			"B           ,/"								
+CHENG				Skin		0.24		0.24		0.24						6.91											
+				Ring																							
+TAN TEE MENG		S7104087I		Body		0.14		0.14		0.14						13.93			B								
+				Skin		0.16		0.16		0.16						14.94											
+				Ring																							
+TAN TEOW		S1692104A		Body												65.46			G								
+HWEE				Skin												91.39											
+VINCENT				Ring																							
+Wearer Name		Wearer ID No.		Dose Type		Current (mSv)		Accumulated Year (mSv)			Accumulated 5-Year (mSv)						Accumulated Life (mSv)			Remarks Code							
+TAN THENG		S1186698J		Body		0.15		0.15			0.15						36.32			B							
+TIAK				Skin		0.16		0.16			0.16						108.97										
+				Ring																							
+TAN THIAN		S1662062I		Body													13.77			G							
+CHOR PHILLIP				Skin													15.35										
+				Ring																							
+TAN THUAN		S1713426D		Body													0.52			G							
+HUAT				Skin													0.53										
+VINCENT				Ring																							
+TAN YING YI		S8938926G		Body		0.14		0.14			0.14						5.48			B							
+CELINE				Skin		0.16		0.16			0.16						5.81										
+				Ring																							
+TAY KIANG		Sl758633E		Body		0.48		0.48			0.48						31.68			B           .j							
+HIONG				Skin		0.58		0.58			0.58						35.26										
+				Ring																							
+TAY MEI FANG		G5181590X		Body		0.14		0.14			0.14						3.09			B							
+				Skin		0.14		0.14			0.14						3.15										
+				Ring																							
+TAY MEI IMM		S8502404C		Body		0.26		0.26			0.26						9.42			B            ..j							
+FIONA				Skin		0.26		0.26			0.26						9.88										
+				Ring																							
+TAY NGIANG		S0084639B		Body		0.65		0.65			0.65						17.97			B          J							
+SOON				Skin		0.65		0.65			0.65						22.82										
+				Ring																							
+TAY SU FANG		S9133153E		Body		0.22		0.22			0.22						1.05			B             v7							
+				Skin		0.24		0.24			0.24						1.09										
+				Ring																							
+TAY YI NING		S9030154C		Body		0.12		0.12			0.12						5.08			B            .J							
+				Skin		0.14		0.14			0.14						5.28										
+				Ring																							
+TAY YI XIANG		S8734680C		Body		0.13		0.13			0.13						4.97			B							
+				Skin		0.16		0.16			0.16						5.55										
+				Ring																							
+Wearer Name		Wearer ID No.		Dose Type		Current (mSv)		Accumulated Year (mSv)		Accumulated 5-Year (mSv)						Accumulated Life (mSv)			Remarks Code								
+TEE KAH LING		S9008848C		Body		0.22		0.22		0.22						5.89			B    v								
+AMY				Skin		0.23		0.23		0.23						6.10											
+				Ring																							
+TEO SI MIN		S8810097B		Body		0.16		0.16		0.16						6.30			B       v								
+				Skin		0.17		0.17		0.17						6.71											
+				Ring																							
+TEO WAN EE		S9128324G		Body		0.22		0.22		0.22						5.32			B       v'								
+				Skin		0.23		0.23		0.23						5.37											
+				Ring																							
+THA ZIN AUNG		G5131894W		Body		0.17		0.17		0.17						4.14											
+				Skin		0.20		0.20		0.20						4.18											
+				Ring																							
+THANALETCH		S1449351D		Body												3.08			G								
+MI D/0				Skin												3.09											
+KANDASAMY				Ring																							
+THOMAS		G6397571R		Body		0.18		0.18		0.18						5.67			B       ·v								
+RANDOLPH PAREDES				Skin Ring		0.22		0.22		0.22						6.00											
+CARVAJAL																											
+TILEKAVATHI		S1621672J		Body		0.16		0.16		0.16						6.47			B      v'								
+D/0 KARMAGAM				Skin Ring		0.16		0.16		0.16						6.78											
+TOH HONG		S1305227A		Body		0.14		0.14		0.14						34.58			B        v'								
+GUAN				Skin		0.15		0.15		0.15						48.72											
+				Ring																							
+TOH LEE		S7810073G		Body		0.13		0.13		0.13						17.45			B       ._;								
+CHUEN				Skin		0.17		0.17		0.17						18.44											
+				Ring																							
+TOK YING		S9013275Z		Body		0.17		0.17		0.17						4.20			B    v								
+YING				Skin		0.20		0.20		0.20						4.29											
+				Ring																							
+TOO CHOW		S7924699I		Body												1.71			G								
+WEI				Skin												1.71											
+				Ring																							
+B      v																											
+Wearer Name		Wearer ID No.		Dose Type		Current (mSv)		Accumulated Year (mSv)			Accumulated 5-Year (mSv)						Accumulated Life (mSv)			Remarks Code							
+TSAI FU CHIER		G6385319X		Body		0.12		0.12			0.12						3.99			B							
+				Skin		0.14		0.14			0.14						4.32										
+				Ring																							
+TSAI PING-		G5459982Q		Body		0.15		0.15			0.15						1.23			B     v							
+SHIN				Skin		0.18		0.18			0.18						1.29										
+				Ring																							
+TSAI YA LUN		G6463912P		Body		0.28		0.28			0.28						3.29			B            v'							
+				Skin		0.29		0.29			0.29						3.31										
+				Ring																							
+TUN TUN		G6024280T		Body		0.14		0.14			0.14						5.79			B     v							
+HLAING				Skin		0.18		0.18			0.18						6.44										
+				Ring																							
+VELAGA		G5367018R		Body		0.31		0.31			0.31						2.50			B							
+JYOTHIRMAYI				Skin		0.31		0.31			0.31						2.51										
+				Ring																							
+VENTURA		G5173613W		Body		0.19		0.19			0.19						3.89			B        V							
+OLIVER				Skin		0.24		0.24			0.24						4.00										
+CRACKETT				Ring																							
+RAMIREZ																											
+VICTORIA		S2006192H		Body		0.22		0.22			0.22						20.03			B           .../							
+SAHAI				Skin		0.25		0.25			0.25						21.01										
+				Ring																							
+VIJAYARANI		S1702735B		Body		0.31		0.31			0.31						8.48			B          ·v'							
+D/0				Skin		0.33		0.33			0.33						9.92										
+NAGALINGAM				Ring																							
+VILMA		G6170384K		Body		0.15		0.15			0.15						1.67			B         ·v							
+PASCUAL				Skin		0.20		0.20			0.20						1.72										
+CASTILLO				Ring																							
+WANG CHIUNG		G3067158P		Body		0.13		0.13			0.13						0.37			B        ·J'							
+-TING				Skin		0.16		0.16			0.16						0.42										
+				Ring																							
+WANG HSIANG		G5374242X		Body		0.23		0.23			0.23						2.04			B        J							
+-YA				Skin		0.23		0.23			0.23						2.04										
+				Ring																							
+Wearer Name		Wearer ID No.	Dose Type			Current (mSv)		Accumulated Year (mSv)		Accumulated 5-Year (mSv)						Accumulated Life (mSv)			Remarks Code								
+WANG LING		G6336129T	Body													2.90			G								
+			· Skin													2.95											
+			Ring																								
+WANG SHIH-		G5369376N	Body			0.15		0.15		0.15						1.75			B           v'								
+WEI			Skin			0.15		0.15		0.15						1.76											
+			Ring																								
+WANG		G0078597R	Body			0.16		0.16		0.16						13.30			B           .J								
+YANYAN			Skin			0.16		0.16		0.16						13.98											
+			Ring																								
+WANG YI-JEN		G5381586W	Body			0.18		0.18		0.18						2.21			B								
+			Skin			0.21		0.21		0.21						2.29											
+			Ring																								
+WANG YU WEI		S7467638C	Body			0.21		0.21		0.21						5.03			"B          ,/"								
+			Skin			0.22		0.22		0.22						5.14											
+			Ring																								
+WEI TING-YU		G5376074R	Body			0.28		0.28		0.28						2.38			B     v								
+			Skin			0.28		0.28		0.28						2.43											
+			Ring																								
+WEI YU-MIN		G5033004X	Body			0.18		0.18		0.18						4.45			B         ../								
+			Skin			0.20		0.20		0.20						4.56											
+			Ring																								
+WONG AI LINN		G6275257U	Body			0.22		0.22		0.22						4.34			B        v								
+IRENE			Skin			0.22		0.22		0.22						4.46											
+			Ring																								
+WONG BAK		S6860550D	Body			0.17		0.17		0.17						5.06			B        ·./								
+SIEW			Skin			0.17		0.17		0.17						5.28											
+			Ring																								
+WONG DE		S9000093D	Body			0.25		0.25		0.25						6.09			B        V								
+SHENG			Skin			0.25		0.25		0.25						6.25											
+			Ring																								
+WONG JIA WEI		S8536545B	Body													7.91			G								
+WILSON			Skin													8.56											
+			Ring																								
+Wearer Name		Wearer ID No.		Dose Type		Current (mSv)		Accumulated Year (mSv)			Accumulated 5-Year (mSv)						Accumulated Life (mSv)			Remarks Code							
+WONG LEE		S1418319A		Body		0.23		0.23			0.23						26.94			B          ..;							
+CHEE EUNICE				Skin		0.23		0.23			0.23						32.03										
+				Ring																							
+WONG MEE		S2555730A		Body		0.27		0.27			0.27						25.12			B          ·./							
+KUEN				Skin		0.27		0.27			0.27						33.85										
+				Ring																							
+WONG  SAI		G0191352U		Body		0.15		0.15			0.15						12.05			B    v							
+YAN				Skin		0.15		0.15			0.15						12.52										
+				Ring																							
+WONG  SAU		S1241530C		Body		0.17		0.17			0.17						31.17			"B         .,/"							
+KHENG AGNES				Skin		0.18		0.18			0.18						60.35										
+				Ring																							
+WONG  SIEW		S1657504F		Body		0.27		0.27			0.27						5.30			B         .J							
+KUNE				Skin		0.28		0.28			0.28						5.49										
+				Ring																							
+WONG WAI		S8822504Z		Body													5.87			G							
+LING CLARE				Skin													6.26										
+				Ring																							
+WONG WAN		S8323884D		Body		0.17		0.17			0.17						12.49			B       ..j							
+LIN KRISTINE				Skin		0.17		0.17			0.17						13.08										
+				Ring																							
+WONG WANG		S8772609F		Body		0.17		0.17			0.17						3.18			B      •\I							
+"HONG
+TERENCE"				Skin Ring		0.17		0.17			0.17						3.38										
+WONG YING		G5253706T		Body		0.11		0.11			0.11						2.78			B         ·./							
+HAO				Skin		0.13		0.13			0.13						2.92										
+				Ring																							
+WOON CHEE		S1771748J		Body		0.24		0.24			0.24						5.65			B        \/							
+HENG KASPER				Skin		0.24		0.24			0.24						6.77										
+				Ring																							
+WU RUEI CHEN		G3003965W		Body		0.19		0.19			0.19						0.48			B							
+				Skin		0.24		0.24			0.24						0.53			"""I"							
+				Ring																							
+SINGAPORE GENERAL HOSPITAL PIE LTD (4536)																											
+DEPT OF DIAGNOSTIC RADIOLOGY 1 HOSPITAL DRIVE																											
+SINGAPORE GENERAL HOSPITAL																											
+SINGAPORE  169608																											
+Attn: MS TOH HONG GUAN																											
+Wearer Name		Wearer ID No.		Dose Type		Current (mSv)		Accumulated Year (mSv)		Accumulated 5-Year (mSv)						Accumulated Life (mSv)			Remarks Code								
+WU XINFANG		S8579820J		Body		0.19		0.19		0.19						3.95			B		v'						
+				Skin		0:20		0.20		0.20						3.97											
+				Ring																							
+WU YI CHING		06463879W		Body		0.14		0.14		0.14						3.13			B		v						
+				Skin		0.14		0.14		0.14						3.15											
+				Ring																							
+YAN SONG		S8732475C		Body		0.18		0.18		0.18						6.15			B		.J						
+TIAN TIMOTHY				Skin		0.18		0.18		0.18						6.62											
+				Ring																							
+YANG CHU		S2619821F		Body		0.19		0.19		0.19						17.79			B     v								
+CHUN PETER				Skin		0.19		0.19		0.19						19.17											
+				Ring																							
+YANG		03033466W		Body		0.20		0.20		0.20						0.86			B      .J								
+SEUNGKYOUN				Skin		0.20		0.20		0.20						0.86											
+G				Ring																							
+YE JIAWEN		S8805446F		Body		0.15		0.15		0.15						1.60			B       v'								
+				Skin		0.15		0.15		0.15						1.64											
+				Ring																							
+YEO CHYE		S1674402F		Body		0.19		0.19		0.19						22.88			B        ·./								
+WHATT				Skin		0.20		0.20		0.20						29.07											
+KENNETH				Ring																							
+YEO JOO GEOK		S0435804Z		Body												63.58			G								
+				Skin												74.17											
+				Ring																							
+YEO SHIU		S2201986D		Body		0.18		0.18		0.18						5.16			B     v								
+SUWN				Skin		0.18		0.18		0.18						5.31											
+				Ring																							
+YEO XINRONG		S8200083F		Body		0.22		0.22		0.22						15.97			B      v								
+YVONNE				Skin		0.22		0.22		0.22						16.71											
+				Ring																							
+YIN LI RONG		S8378304D		Body		0.15		0.15		0.15						10.66			B     ./								
+				Skin		0.15		0.15		0.15						11.26											
+				Ring																							
+Wearer Name		Wearer ID No.		Dose Type		Current (mSv)		Accumulated Year (mSv)			Accumulated 5-Year (mSv)						Accumulated Life (mSv)			Remarks Code							
+YU CHANG-		G5049759W		Body		0.15		0.15			0.15						3.70			B           v'							
+YAN				Skin		0.16		0.16			0.16						3.81										
+				Ring																							
+YU HSIN-YU		G5373359Q		Body		0.22		0.22			0.22						2.17			B         ../							
+				Skin		0.22		0.22			0.22						2.20										
+				Ring																							
+ZAMORA		S7561395D		Body		0.20		0.20			0.20						11.56			B        ·J							
+CHRISTINE				Skin		0.22		0.22			0.22						13.20										
+PRADES				Ring																							
+ZENA		G5163500R		Body		0.19		0.19			0.19						3.98			B         v'							
+ARUMUGAM				Skin		0.19		0.19			0.19						4.08										
+				Ring																							
+ZHANG HUA		S2719424I		Body		0.22		0.22			0.22						12.53			B							
+REN				Skin		0.23		0.23			0.23						13.04			./							
+				Ring																							
+ZHAO LI		S8580165A		Body													8.83			G							
+				Skin													9.33										
+				Ring																							
+ZUBAIDAH BT		S1446130B		Body		0.20		0.20			0.20						18.92			B							
+ABD MANAN				Skin		0.22		0.22			0.22						20.67			·./							
+				Ring																							
+Remarks																											
+B - The dose is considered as acceptable.																											
+G - The dosimeter was not reimned with the rest. Please return it as soon as possible if you have not done so.																											
+CHEW MENG CROON																											
+HEAD																											
+RADIATION  MONITORING & SERVICES UNIT																											
+RADIATION  PROTECTION  AND NUCLEAR  SCIENCE DEPARTMENT																											
+(This is computer-generated  letter & requires no signature)																											
+Toh Hong Guan (SGH)																											
+From:																											
+Sent:																											
+To:																											
+Cc:																											
+Subject:																											
+Chok Lih YEO (NEA)  <YEO_Chok_Lih@nea.gov.sg>																											
+"05 June, 2015 9:58 AM"																											
+Toh Hong Guan (SGH)																											
+Lee Li Na (SGH); Meng Choon CHEW (NEA); Samantha TEO (NEA); Chu Leng HOW (NEA)																											
+RE: dose report (Jan to Mar 2015)																											
+Dear Ms Toh																											
+Noted and thank you for informing.																											
+"Cc: Mdm Chew and Samantha - Fyi, please."																											
+"Regards,"																											
+YEO Chok Uh • Technical Supervisor  • Radiation  Protection and Nuclear Science  Department • National Environment																											
+Agency  • DID : +65 6731 9547 • Fax : +65 6731 9585 • Email : yeo  chok  lih@ nea.gov.sg																											
+National Environment Agency																											
+Find out more about how we can work together to sustain Singapore's clean and green environment at																											
+"www.nea.gov.sq.  This message may contain confidential information under the purview of the Official Secrets Act. Unauthorized communication or disclosure of such information is an offence under the Official Secrets Act.  If you are not the intended recipient of this message, please notify the sender and delete it. Do not retain it or disclose the contents to any person, as it may be an offence under the Official Secrets Act."																											
+this email																											
+From: Toh Hong Guan (SGH) [mailto:toh.hong.guan@sgh.com.sg]																											
+"Sent: Friday, 5 June, 2015 9:55 AM"																											
+To: Chok Lih YEO (NEA)																											
+Cc: Lee Li Na (SGH)																											
+Subject: FW: dose report (Jan to Mar 2015)																											
+"Hi Mr Yeo,"																											
+One of our interventional radiologists had confirmed placing his TLD in the pocket of the apron during procedure. Please help to make a note that his reading body dose in Jan to Mar 2015 report was high (7.14mSv) due to wrong placement of TLD during interventional procedure.																											
+We are sorry for the mistake made by our staff.																											
+"Apology,"																											
+Toh Hong Guan DDR Manager																											
+From: Toh Hong Guan (SGH)																											
+"Sent: 05 June, 2015 9:42 AM"																											
+To: Leong Sum (SGH)																											
+Subject: RE: dose report (Jan to Mar 2015)																											
+"Hi Dr Leong,"																											
+Thanks for reply.																											
+Please remember to wear it beneath the protective apron to get accurate measurement of your body dose.																											
+1																											
+"If you have any problem or concern, please do not hesitate to contact me."																											
+"Regards,"																											
+HG																											
+From: Leong Sum (SGH)																											
+"Sent: 04 June, 2015 9: 11 PM"																											
+To: Toh Hong Guan (SGH)																											
+Subject: Re: dose report (Jan to Mar 2015)																											
+Hi Hong Guan																											
+My TLD  was placed inside pocket of the protective apron instead of wearing it beneath the protective apron.																											
+Thanks.																											
+"On 4 Jun 2015, at 20:20, ""Toh Hong Guan (SGH}"" <toh.hong.guan@sgh. com.sg> wrote:"																											
+"Hi Dr Leong,"																											
+The recent quarterly dose report from NEA (received 03 June 2015} indicated that your body dose is																											
+7.14mSv.  We need to analyse with you the following :																											
+Has your TLD been worn outside the protective apron during a procedure?																											
+Has your TLD been left inside the procedure room?																											
+Has your TLD been brought home and left near a TV set etc ?																											
+"Has your TLD been left in the washing machine and then dried in the sun? Has your TLD been brought along any overseas travel""?"																											
+Or any other happening that you can share with us?																											
+Please kindly reply asap.																											
+"Regards,"																											
+HG																											
+DUKEIB!NUS																											
+AO::Al:>wl\m:   IUOH:AL   CIWTU																											
+The information contained in this e-mail and the attachments  (if any) may be privileged and confidential and is																											
+"intended solely for the named addressee.  If you are not the intended recipient, please do not print, retain copy, disseminate, distribute, or use this e-mail or any part thereof. Please notify the sender immediately by replying to this e-mail and delete all copies of this e-mail and the attachments."																											
+2																											
